@@ -1,0 +1,10 @@
+# Ignore the contents of the output folder
+BM/app/output/*
+!BM/app/output/samples
+
+# Ignore environment
+env/
+venv/
+
+# Ignore __pycache__
+**/__pycache__/
